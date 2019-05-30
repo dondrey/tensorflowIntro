@@ -1,0 +1,5 @@
+import tensorflow as tf
+import numpy as np
+fd = np.random.uniform(12, 13, 100)
+print(fd)
+np.max(fd)
